@@ -1,0 +1,114 @@
+{
+    "userId" : "01",
+    "displayName" : "Bee 001",
+    "phone" : "01",
+    "email" : "Bee001@uberforx.com",
+    "earnedRatings" : 21,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Kalyan Nagar, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.63997110000003,
+            13.0280047
+        ]
+    }
+}
+{
+    "userId" : "02",
+    "displayName" : "Bee 002",
+    "phone" : "02",
+    "email" : "Bee002@uberforx.com",
+    "earnedRatings" : 10,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Indiranagar, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.64115449999997,
+            12.9718915
+        ]
+    }
+
+}
+{
+    "userId" : "03",
+    "displayName" : "Bee 003",
+    "phone" : "03",
+    "email" : "Bee003@uberforx.com",
+    "earnedRatings" : 15,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Ulsoor, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.62855850000005,
+            12.9817147
+        ]
+    }
+}
+{
+    "userId" : "04",
+    "displayName" : "Bee 004",
+    "phone" : "04",
+    "email" : "Bee004@uberforx.com",
+    "earnedRatings" : 11,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Shivaji Nagar, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.60547099999997,
+            12.975614
+        ]
+    }
+}
+{
+    "userId" : "05",
+    "displayName" : "Bee 005",
+    "phone" : "05",
+    "email" : "Bee005@uberforx.com",
+    "earnedRatings" : 15,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Lido Mall, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.62047400000006,
+            12.972814
+        ]
+    }
+}
+{
+    "userId" : "06",
+    "displayName" : "Bee 006",
+    "phone" : "06",
+    "email" : "Bee006@uberforx.com",
+    "earnedRatings" : 21,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Koramangala, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.62710779999998,
+            12.9279232
+        ]
+    }
+
+}
+{
+    "userId" : "07",
+    "displayName" : "Bee 007",
+    "phone" : "07",
+    "email" : "Bee007@uberforx.com",
+    "earnedRatings" : 18,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "Domlur, Toronto, Ontario, Canada",
+        "coordinates" : [
+            77.63873160000003,
+            12.9609857
+        ]
+    }
+}
